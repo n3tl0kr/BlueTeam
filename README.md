@@ -1,4 +1,5 @@
 # BlueTeam
+
 This Git repo serves as a centralized hub for all things related to cybersecurity, digital forensics, and more. 
 
 Key Features:
@@ -13,3 +14,5 @@ Automation: Find automation scripts and guides to streamline security tasks, mak
 Python Projects: Explore Python projects related to cybersecurity, network analysis, and data visualization.
 
 Feel free to clone, fork, or contribute to this repository as we work together to strengthen our cybersecurity defenses. Let's make the digital world safer, one commit at a time!
+
+![halo blue team](https://github.com/n3tl0kr/BlueTeam/assets/43141524/2755d389-8364-4c75-b3fa-5acf1c3f21a6)

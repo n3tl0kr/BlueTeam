@@ -5,7 +5,7 @@ Key Features:
 
 Scripts and Tools: Explore a collection of custom scripts and tools tailored for cyber defense, incident response, and network monitoring.
 
-(Learning Resources): Access a curated list of cybersecurity learning resources, including books, courses, articles, and tutorials to enhance your knowledge.
+[Training_Resources.md](Learning Resources): Access a curated list of cybersecurity learning resources, including books, courses, articles, and tutorials to enhance your knowledge.
 
 Automation: Find automation scripts and guides to streamline security tasks, making your Blue Team operations more efficient.
 

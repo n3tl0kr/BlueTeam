@@ -4,6 +4,7 @@ This Git repo serves as a centralized hub for all things related to cybersecurit
 Key Features:
 
 Scripts and Tools: Explore a collection of custom scripts and tools tailored for cyber defense, incident response, and network monitoring.
+- March 2021, Microsoft DNS Enumeration [RCE Check](032021_MS-DNS_RCE.ps1) (Powershell)
 
 [Learning Resources](Training_Resources.md): Access a curated list of cybersecurity learning resources, including books, courses, articles, and tutorials to enhance your knowledge.
 

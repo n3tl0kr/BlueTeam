@@ -1,5 +1,5 @@
+![Screenshot 2023-10-06 at 11 38 57 AM](https://github.com/n3tl0kr/BlueTeam/assets/43141524/16ef0023-10d2-4ee4-be1a-dd7002ac10cd)
 # BlueTeam
-
 This Git repo serves as a centralized hub for all things related to cybersecurity, digital forensics, and more. 
 
 Key Features:
@@ -15,4 +15,4 @@ Python Projects: Explore Python projects related to cybersecurity, network analy
 
 Feel free to clone, fork, or contribute to this repository as we work together to strengthen our cybersecurity defenses. Let's make the digital world safer, one commit at a time!
 
-![halo blue team](https://github.com/n3tl0kr/BlueTeam/assets/43141524/2755d389-8364-4c75-b3fa-5acf1c3f21a6)
+

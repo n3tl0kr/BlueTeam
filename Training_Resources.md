@@ -9,6 +9,14 @@ Join us on this exciting path of continuous learning and improvement. Let's stre
 
 If you have anything to add here, please let me know!
 
+**Update**
+I originally was going to break this down by discipline but so many vendors are crosstraining now, it doesn't make sense.  I will leave the descriptions here because its useful but the training resources will be bulk listed.
+
+1. [TryHackMe](https://www.tryhackme.com)
+2. [HackTheBox] (https://hackthebox.eu)
+3. [HackTheBox Academy] (https://academy.hackthebox.eu)
+4. [HackTheBox Labs](https://labs.hackthebox.eu) - A massive pool of virtual penetration testing labs, simulating up-to-date security vulnerabilities and misconfigurations. New labs are added every week, ensuring the content is always up-to-date and the fun unlimited. Players can learn all the latest attack paths and exploit techniques. 
+
 ## BlueTeam
 Blue team operations are the unsung heroes of the cybersecurity world, embodying the defenders who stand guard to protect digital assets and networks. Imagine them as the guardians of the virtual realm, constantly vigilant and prepared to respond to threats. Blue team operations are like a well-choreographed symphony, where cybersecurity professionals work in harmony to detect, mitigate, and prevent cyberattacks.
 

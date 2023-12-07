@@ -12,10 +12,12 @@ If you have anything to add here, please let me know!
 **Update**
 I originally was going to break this down by discipline but so many vendors are crosstraining now, it doesn't make sense.  I will leave the descriptions here because its useful but the training resources will be bulk listed.
 
-1. [TryHackMe](https://www.tryhackme.com)
-2. [HackTheBox] (https://hackthebox.eu)
-3. [HackTheBox Academy] (https://academy.hackthebox.eu)
-4. [HackTheBox Labs](https://labs.hackthebox.eu) - A massive pool of virtual penetration testing labs, simulating up-to-date security vulnerabilities and misconfigurations. New labs are added every week, ensuring the content is always up-to-date and the fun unlimited. Players can learn all the latest attack paths and exploit techniques. 
+1. [TryHackMe](https://www.tryhackme.com) - TryHackMe is _a free online platform for learning cyber security_, using hands-on exercises and labs, all through your browser!
+2. [HackTheBox](https://hackthebox.com) - Choose between comprehensive beginner-level and advanced online courses covering offensive, defensive, or general cybersecurity fundamentals.
+3. [HackTheBox Academy](https://academy.hackthebox.com)- Develop your skills with guided training and prove your expertise with industry certifications. Become a market-ready cybersecurity professional.
+4. [Pentester Academy](https://www.pentesteracademy.com/) - PA Labs host over 2000+ unique lab exercises on topics spanning from recon, exploitation, post-exploitation, data exfiltration, web applications, traffic analysis, CVEs, network components, infrastructure attacks, privilege escalation, forensics, firmware analysis, reversing, secure coding, IoT networks, Metasploit, Python for infosec and many others. New labs are added weekly!
+5. [Hack This Site](https://www.hackthissite.org/) - _HackThisSite_.org is a free, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
+6. [PentesterLab](https://pentesterlab.com/) - a great resource for learning about web application security and ways how it can be subverted.
 
 ## BlueTeam
 Blue team operations are the unsung heroes of the cybersecurity world, embodying the defenders who stand guard to protect digital assets and networks. Imagine them as the guardians of the virtual realm, constantly vigilant and prepared to respond to threats. Blue team operations are like a well-choreographed symphony, where cybersecurity professionals work in harmony to detect, mitigate, and prevent cyberattacks.

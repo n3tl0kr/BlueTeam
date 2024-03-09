@@ -15,4 +15,5 @@ IdentityLogonEvents
 | where FailureReason != ""
 | summarize (Timestamp, ReportID)=arg_max(Timestamp, ReportId), count() by ISP, FailureReason, bin(Timestamp, timeWindow)
 | where count_ > threshold
+| project ISP, FailureReason, Timestamp = Timestamp1, ReportID
 ```

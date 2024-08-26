@@ -33,5 +33,5 @@
 ![Alt text](https://github.com/n3tl0kr/BlueTeam/blob/main/assets/utm_2.png)
 
 ### References
-https://www.antisyphontraining.com/john-strand-training-lab-download-instructions/
-https://docs.getutm.app/installation/macos/
+* https://www.antisyphontraining.com/john-strand-training-lab-download-instructions/
+* https://docs.getutm.app/installation/macos/

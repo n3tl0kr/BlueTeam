@@ -10,9 +10,11 @@
 ## Convert the ADHD VM 
 1. Unzip the `WINADHD04_23.7z` file. 
 2. If you don't have QEMU installed, please install it via HomeBrew on macOS.  (For more information about HomeBrew, please visit https://brew.sh/ for more details.)
+   
    `$ brew install qemu`
 3. Identify the `.vmdk` file in your VMware image directory. This is the disk image that you'll convert to a format compatible with UTM.
 4. Use the `qemu-img` command to convert the `.vmdk` file to a QCOW2 file, which is compatible with UTM.  Make sure to edit the paths to reflect your download and unzip locations.
+
    `$ qemu-img convert -O qcow2 path/to/WINADHD-disk1.vmdk path/to/WINADHD-disk1.qcow2`
 5. Launch UTM and click the `+` button to create a new virtual machine.
 6. Choose **Emulate** to ensure functionality with x86/x64 virtual machines. Click **Continue**

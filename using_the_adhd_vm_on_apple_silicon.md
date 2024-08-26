@@ -22,9 +22,14 @@
 10. Set **Storage Size** to 50GB. Click **Continue**. 
 11. For **Shared Directory**, click **Continue**. 
 12. At the **Summary** screen, choose a name, and select **Open VM Settings** before clicking **Save**. 
-13. From the **Settings** window that opens, under the **Drives** section, select **New** > **Import** and then choose the `.qcow2` file you just created. You can then go back to the **Settings** menu under drives and click on the empty IDE entry and then **Delete**. ![Alt text](https://github.com/n3tl0kr/BlueTeam/blob/main/assets/utm_1.png)
+13. From the **Settings** window that opens, under the **Drives** section, select **New** > **Import** and then choose the `.qcow2` file you just created. You can then go back to the **Settings** menu under drives and click on the empty IDE entry and then **Delete**. 
+
+![Alt text](https://github.com/n3tl0kr/BlueTeam/blob/main/assets/utm_1.png)
+
 14. Note that the first boot may be very slow.  After the desktop has stabilized, click the **Drive Options** button at the top of the **UTM** windows and select **Install Windows Guest Tools** 
-    ![Alt text](https://github.com/n3tl0kr/BlueTeam/blob/main/assets/utm_2.png)
+
+![Alt text](https://github.com/n3tl0kr/BlueTeam/blob/main/assets/utm_2.png)
+
 ### References
 https://www.antisyphontraining.com/john-strand-training-lab-download-instructions/
 https://docs.getutm.app/installation/macos/

@@ -32,6 +32,19 @@
 
 ![Alt text](https://github.com/n3tl0kr/BlueTeam/blob/main/assets/utm_2.png)
 
+15. If step 14 does NOT work, I also had success with the following.
+
+## Manual Installation of SPICE Guest Tools (If Necessary)
+1. Power the virtual machine all the way off.
+2. Download the SPICE Guest Tools image (https://github.com/utmapp/qemu/releases/download/v7.0.0-utm/spice-guest-tools-0.164.4.iso)
+3. Open the UTM menu and select **Edit**.
+4. Under **Drives**, select **New** > **IDE** and ensure to select **Removable Media**.  Then **Import** and select the SPICE Tools ISO downloaded in the previous step.
+5. Power the virtual machine on.
+6. Once Windows starts up and you are logged in, open “My Computer” and find the CD drive labeled “UTM”.
+7. Launch spice-guest-tools-xxx.exe where xxx is the version number.
+8. Follow the setup wizard to install the guest tools.
+9. The installation of the guest tools should improve performance to some extent and allow copy/paste between the host and guest, network functionality, etc.
+
 ### References
 * https://www.antisyphontraining.com/john-strand-training-lab-download-instructions/
 * https://docs.getutm.app/installation/macos/

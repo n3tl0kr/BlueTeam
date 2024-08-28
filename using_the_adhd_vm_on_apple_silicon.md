@@ -33,7 +33,6 @@
 ![Alt text](https://github.com/n3tl0kr/BlueTeam/blob/main/assets/utm_2.png)
 
 15. If step 14 does NOT work, I also had success with the following.
-
 ## Manual Installation of SPICE Guest Tools (If Necessary)
 1. Power the virtual machine all the way off.
 2. Download the SPICE Guest Tools image (https://github.com/utmapp/qemu/releases/download/v7.0.0-utm/spice-guest-tools-0.164.4.iso)
@@ -44,6 +43,9 @@
 7. Launch spice-guest-tools-xxx.exe where xxx is the version number.
 8. Follow the setup wizard to install the guest tools.
 9. The installation of the guest tools should improve performance to some extent and allow copy/paste between the host and guest, network functionality, etc.
+## Performance Enhancements
+* I had the best luck bumping up RAM and CPU to 8GB/4CPUs and enabling "Force Multicore"
+* For Display, I had the best luck with **virtuo-vga**
 
 ### References
 * https://www.antisyphontraining.com/john-strand-training-lab-download-instructions/

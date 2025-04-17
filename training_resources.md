@@ -18,6 +18,7 @@ I originally was going to break this down by discipline but so many vendors are 
 4. [Pentester Academy](https://www.pentesteracademy.com/) - PA Labs host over 2000+ unique lab exercises on topics spanning from recon, exploitation, post-exploitation, data exfiltration, web applications, traffic analysis, CVEs, network components, infrastructure attacks, privilege escalation, forensics, firmware analysis, reversing, secure coding, IoT networks, Metasploit, Python for infosec and many others. New labs are added weekly!
 5. [Hack This Site](https://www.hackthissite.org/) - _HackThisSite_.org is a free, safe and legal training ground for hackers to test and expand their ethical hacking skills with challenges, CTFs, and more.
 6. [PentesterLab](https://pentesterlab.com/) - a great resource for learning about web application security and ways how it can be subverted.
+7. [Blue Cape Security](https://bluecapesecurity.com/) - Blue Cape Security is a premier cybersecurity training provider specializing in blue team roles, offering hands-on courses and virtual labs in digital forensics, incident response, and more.
 
 ## BlueTeam
 Blue team operations are the unsung heroes of the cybersecurity world, embodying the defenders who stand guard to protect digital assets and networks. Imagine them as the guardians of the virtual realm, constantly vigilant and prepared to respond to threats. Blue team operations are like a well-choreographed symphony, where cybersecurity professionals work in harmony to detect, mitigate, and prevent cyberattacks.
